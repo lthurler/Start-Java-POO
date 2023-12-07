@@ -1,0 +1,10 @@
+
+
+{
+    "files.encoding": "utf8",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "chcp 1252"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
